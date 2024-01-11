@@ -1,0 +1,22 @@
+{
+  "name": "massive_vajierik",
+  "version": "1.0.0",
+  "description": "massive worker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vajierik/PW9/tree/master/9.5.1"
+  },
+  "keywords": [
+    "massive"
+  ],
+  "author": "vajierik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vajierik/PW9/issues"
+  },
+  "homepage": "https://github.com/vajierik/PW9/9.5.1#readme"
+}
